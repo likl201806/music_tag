@@ -3,8 +3,8 @@
 # Run `pod lib lint ima.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'ima_player'
-  s.version          = '0.0.1'
+  s.name             = 'music_tag'
+  s.version          = '1.0.0'
   s.summary          = 'A new Flutter plugin project.'
   s.description      = <<-DESC
 A new Flutter plugin project.

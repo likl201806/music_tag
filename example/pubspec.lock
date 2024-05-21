@@ -75,13 +75,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  ima_player:
-    dependency: "direct main"
-    description:
-      path: ".."
-      relative: true
-    source: path
-    version: "1.1.1"
   lints:
     dependency: transitive
     description:
@@ -114,6 +107,13 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.9.1"
+  music_tag:
+    dependency: "direct main"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "1.1.1"
   path:
     dependency: transitive
     description:
