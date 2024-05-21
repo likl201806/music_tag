@@ -1,6 +1,6 @@
 name: music_tag
 description: iOS, Android supported IMA Player. Used ExoPlayer for Android and AVPlayer for iOS.
-version: 1.1.1
+version: 1.0.0
 homepage: https://github.com/likl201806/imas_player
 
 environment:
