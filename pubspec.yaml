@@ -20,7 +20,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.kyle.music_tag
+        package: com.example.music_tag
         pluginClass: MusicTagPlugin
       ios:
         pluginClass: MusicTagPlugin
